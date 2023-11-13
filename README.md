@@ -1,3 +1,4 @@
 # Odoo: Technical Training
 
-- [Getting Started](https://www.odoo.com/documentation/16.0/fr/developer/tutorials/getting_started.html)
+- [Install from Source](https://www.odoo.com/documentation/17.0/administration/install/source.html#)
+- [Getting Started](https://www.odoo.com/documentation/17.0/developer/tutorials/getting_started.html)
