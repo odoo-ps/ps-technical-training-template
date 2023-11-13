@@ -1,19 +1,18 @@
 {
     "name": "Template",
     "summary": """
-    Template manifest
+    Template manifest.
     """,
     "category": "",
-    "version": "16.0.0.0.0",
+    "version": "17.0.0.0.1",
     "author": "Partner XYZ",
     "website": "https://www.partner_xyz.com",
-    "license": "OEEL-1",  # or any other type of license
-    "depends": [
-        
-    ],
+    "license": "OEEL-1",  # Or any other type of license
+    "depends": [],
     "data": [
-        # SECURITY
-        # VIEWS
-        # MENUS
+        # --- Security ---
+        # --- Views ---
+        # --- Menus ---
+        # --- Data ---
     ],
 }
